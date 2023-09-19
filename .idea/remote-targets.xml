@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="b41cfeba-1c64-476f-bdec-e179842d8e5e" />
+    <targets>
+      <target name="root@192.168.1.27:22" type="ssh/sftp" uuid="b41cfeba-1c64-476f-bdec-e179842d8e5e">
+        <config>
+          <option name="projectRootOnTarget" value="/root/Remote_Test" />
+          <option name="serverName" value="root@192.168.1.27:22 password" />
+          <option name="useRsync" value="true" />
+        </config>
+      </target>
+    </targets>
+  </component>
+</project>
