@@ -1,0 +1,2 @@
+comunicacion i2c
+https://github.com/armlabs/ssd1306_linux
